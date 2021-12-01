@@ -1,8 +1,3 @@
-/* 
-** Author : Abhishek Shree (@shree_e)
-** There is no Algorithm for Humor.
-*/ 
-
 #pragma GCC optimize("Ofast")
 #pragma GCC target("avx,avx2,fma")
 #pragma GCC optimization ("unroll-loops")
