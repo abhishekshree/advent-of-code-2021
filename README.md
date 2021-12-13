@@ -8,3 +8,9 @@ Link: https://adventofcode.com/2021
 - Day 5: Trivial
 - Day 6: Easy with LRU Cache
 - Day 7: Trivial
+- Day 8: Brute force
+- Day 9: BFS on a grid
+- Day 10: Bracket matching (stack)
+- Day 11: Brute forced on all combinations
+- Day 12: DFS for paths
+- Day 13: [WOW!](https://www.reddit.com/r/adventofcode/comments/rf9uoa/2021_day_13_folding_dots/)
