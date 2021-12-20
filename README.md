@@ -14,3 +14,9 @@ Link: https://adventofcode.com/2021
 - Day 11: Brute forced on all combinations
 - Day 12: DFS for paths
 - Day 13: [WOW!](https://www.reddit.com/r/adventofcode/comments/rf9uoa/2021_day_13_folding_dots/)
+- Day 14: Implementation based
+- Day 15: Dijkstra's algorithm
+
+This is getting boring now.
+
+- Day 17: Trivial
